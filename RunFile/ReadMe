@@ -1,0 +1,6 @@
+
+@Sharon
+This program is writen in C#
+The models results are attached as CSV file.
+In order to check the the program please choose a file from test folder of each genere music you wish to check. 
+E.g: "MusicFiles/Jazz/Test/Mozart 's Greatest Violin Piece.mp3"
